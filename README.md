@@ -32,6 +32,16 @@ rates, alerts, and more), so nothing is left out.
 - **Best for:** Pilots who respond better to withering disdain than to encouragement.
 - **Sample:** *"Battery low. Land now, you idiot."*
 
+### Clover — the stealthy whoop pilot
+- **Voice:** `af_nicole` (hushed US female whisper)
+- **Vibe:** A cheeky, whisper-soft accomplice for guerrilla whoop missions. She urges
+  you to stay quiet and not get caught, but she will absolutely poke fun at you when
+  you fumble a mode. Encouraging on the surface, gently mocking underneath.
+- **Best for:** Stealthy FPV runs, sneaking around the neighbourhood, and anyone who
+  wants their radio to feel like a co-conspirator rather than a passenger.
+- **Samples:** *"Angle mode. Come on. You are better than this."* /
+  *"Turtle mode on. I hope this works."* / startup: *"Welcome to EdgeTX, shhhh."*
+
 ---
 
 ## Installing a pack
